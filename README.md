@@ -2,6 +2,6 @@
 
 # Rails Application
 
-This is my first rails application.
+This is my first Rails application.
 
 Lateefat
